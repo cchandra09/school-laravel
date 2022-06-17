@@ -27,6 +27,19 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lato&family=Roboto&display=swap" rel="stylesheet" />
 
+    <link href="https://www.sman1yogya.sch.id/assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://www.sman1yogya.sch.id/assets/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="https://www.sman1yogya.sch.id/assets/css/flaticon-set.css" rel="stylesheet" />
+    <link href="https://www.sman1yogya.sch.id/assets/css/magnific-popup.css" rel="stylesheet" />
+    <link href="https://www.sman1yogya.sch.id/assets/css/owl.carousel.min.css" rel="stylesheet" />
+    <link href="https://www.sman1yogya.sch.id/assets/css/owl.theme.default.min.css" rel="stylesheet" />
+    <link href="https://www.sman1yogya.sch.id/assets/css/animate.css" rel="stylesheet" />
+    <link href="https://www.sman1yogya.sch.id/assets/css/bootsnav.css" rel="stylesheet" />
+    <link href="https://www.sman1yogya.sch.id/assets/css/style.css" rel="stylesheet">
+    <link href="https://www.sman1yogya.sch.id/assets/css/responsive.css" rel="stylesheet" />
+    <link href="https://www.sman1yogya.sch.id/assets/css/style2.css" rel="stylesheet">
+    <!-- ========== End Stylesheet ========== -->
+
 </head>
 
 <body>
