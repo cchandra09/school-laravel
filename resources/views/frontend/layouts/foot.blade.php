@@ -25,7 +25,7 @@
 
     <script src="frontend/js/main.js"></script>
 
-    <script src="https://www.sman1yogya.sch.id/assets/js/jquery-1.12.4.min.js"></script>
+    {{-- <script src="https://www.sman1yogya.sch.id/assets/js/jquery-1.12.4.min.js"></script>
     <script src="https://www.sman1yogya.sch.id/assets/js/bootstrap.min.js"></script>
     <script src="https://www.sman1yogya.sch.id/assets/js/equal-height.min.js"></script>
     <script src="https://www.sman1yogya.sch.id/assets/js/jquery.appear.js"></script>
@@ -39,7 +39,7 @@
     <script src="https://www.sman1yogya.sch.id/assets/js/count-to.js"></script>
     <script src="https://www.sman1yogya.sch.id/assets/js/bootsnav.js"></script>
 	<script src="https://www.sman1yogya.sch.id/assets/js/masonry-docs.min.js?2"></script>
-    <script src="https://www.sman1yogya.sch.id/assets/js/main.js"></script>
+    <script src="https://www.sman1yogya.sch.id/assets/js/main.js"></script> --}}
 </body>
 
 </html>

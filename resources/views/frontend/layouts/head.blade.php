@@ -21,24 +21,8 @@
     <link rel="stylesheet" href="frontend/css/slicknav.css">
     <link rel="stylesheet" href="frontend/css/style.css">
     <link rel="stylesheet" href="frontend/css/main.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&amp;display=swap">
-    <meta name="monetization" content="$ilp.uphold.com/WUdKN2pAgLAG" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.css" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Lato&family=Roboto&display=swap" rel="stylesheet" />
-
-    <link href="https://www.sman1yogya.sch.id/assets/css/bootstrap.min.css" rel="stylesheet" />
-    <link href="https://www.sman1yogya.sch.id/assets/css/font-awesome.min.css" rel="stylesheet" />
-    <link href="https://www.sman1yogya.sch.id/assets/css/flaticon-set.css" rel="stylesheet" />
-    <link href="https://www.sman1yogya.sch.id/assets/css/magnific-popup.css" rel="stylesheet" />
-    <link href="https://www.sman1yogya.sch.id/assets/css/owl.carousel.min.css" rel="stylesheet" />
-    <link href="https://www.sman1yogya.sch.id/assets/css/owl.theme.default.min.css" rel="stylesheet" />
-    <link href="https://www.sman1yogya.sch.id/assets/css/animate.css" rel="stylesheet" />
-    <link href="https://www.sman1yogya.sch.id/assets/css/bootsnav.css" rel="stylesheet" />
-    <link href="https://www.sman1yogya.sch.id/assets/css/style.css" rel="stylesheet">
-    <link href="https://www.sman1yogya.sch.id/assets/css/responsive.css" rel="stylesheet" />
-    <link href="https://www.sman1yogya.sch.id/assets/css/style2.css" rel="stylesheet">
-    <!-- ========== End Stylesheet ========== -->
+    <link rel="stylesheet" href="https://themify.me/wp-content/themes/themify-v32/themify-icons/themify-icons.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
 
 </head>
 
